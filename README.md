@@ -1,4 +1,4 @@
-# Becoming the Hacker
+# Machine Learning with R
 This is the code repository for Machine Learning with R, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## About the Book
