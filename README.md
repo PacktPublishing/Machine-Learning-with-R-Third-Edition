@@ -13,28 +13,13 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 The code will look like the following:
 ```
-{
- "dependencies": {
-"request": ""
- }
- }
+wbcd_test_pred <- knn(train = wbcd_train, test = wbcd_test, cl = wbcd_train_labels, k=1)
+CrossTable(x = wbcd_test_labels, y = wbcd_test_pred, prop.chisq=FALSE)
 ```
 
 ## Software Requirements
 
 R 3.5.3, RStudio 1.1.463
-
-* Chapter 2:  
-* Chapter 3:  
-* Chapter 4:  
-* Chapter 5:  
-* Chapter 6:  
-* Chapter 7:  
-* Chapter 8:  
-* Chapter 9:  
-* Chapter 10: 
-* Chapter 11: 
-* Chapter 12: 
 
 ## Related Products
 
