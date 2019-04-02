@@ -1,5 +1,5 @@
-# Machine Learning with R
-This is the code repository for Machine Learning with R, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+# Machine Learning with R - Third Edition
+This is the code repository for Machine Learning with R - Third Edition, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## About the Book
 Machine learning, at its core, is concerned with transforming data into actionable knowledge. R offers a powerful set of machine learning methods to quickly and easily gain insight from your data.
