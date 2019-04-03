@@ -27,4 +27,4 @@ R 3.5.3, RStudio 1.1.463
 
 * [Python Machine Learning - Second Edition](https://prod.packtpub.com/in/big-data-and-business-intelligence/python-machine-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787125933)
 
-* [Web Penetration Testing with Kali Linux](https://prod.packtpub.com/in/big-data-and-business-intelligence/architects-intelligence?utm_source=github&utm_medium=repository&utm_campaign=9781789954531)
+* [Architects of Intelligence](https://prod.packtpub.com/in/big-data-and-business-intelligence/architects-intelligence?utm_source=github&utm_medium=repository&utm_campaign=9781789954531)
