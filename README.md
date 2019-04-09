@@ -19,9 +19,9 @@ CrossTable(x = wbcd_test_labels, y = wbcd_test_pred, prop.chisq=FALSE)
 
 ## Software Requirements
 
-* R 3.5.3
+* R 3.5.x
 
-* RStudio 1.1.463
+* RStudio 1.1.x
 
 ## Related Products
 
