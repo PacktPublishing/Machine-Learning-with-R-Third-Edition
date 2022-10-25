@@ -30,3 +30,7 @@ CrossTable(x = wbcd_test_labels, y = wbcd_test_pred, prop.chisq=FALSE)
 * [Python Machine Learning - Second Edition](https://prod.packtpub.com/in/big-data-and-business-intelligence/python-machine-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787125933)
 
 * [Architects of Intelligence](https://prod.packtpub.com/in/big-data-and-business-intelligence/architects-intelligence?utm_source=github&utm_medium=repository&utm_campaign=9781789954531)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788295864">https://packt.link/free-ebook/9781788295864 </a> </p>
